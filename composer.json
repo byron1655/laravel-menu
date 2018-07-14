@@ -1,0 +1,13 @@
+{
+    "name": "byron1655/laravel-menu",
+    "description": "laravel-menu",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "byron1655",
+            "email": "byron1655@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
